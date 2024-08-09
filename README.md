@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new things and technologies.
 - 🌱 I’m currently pursuing my graduation in Computer Science And Enginerring .
 - 💞️ I’m looking to collaborate on python projects and machine learning 
-- 📫 Email: riyapant012@gmail.com
+-
 
 <!---
 riyapant-source/riyapant-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

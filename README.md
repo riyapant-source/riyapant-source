@@ -33,6 +33,7 @@ When I’m not coding, you’ll find me:
 ## 🚀 Projects
 
 🌐 [**Aegis: AI-Powered Career Coach**](https://github.com/riyapant-source/AEGIS)  
+🛍️ [**Pahadi Haath – MERN eCommerce Platform**](https://github.com/riyapant-source/PAHADI-HAAT)  
 🛡️ [**Botnet Detection Using ML**](https://github.com/riyapant-source/BOTNET-DETECTION)  
 📊 More projects coming soon...
 

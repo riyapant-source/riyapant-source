@@ -22,10 +22,11 @@ When I’m not coding, you’ll find me:
 | Domain | Tools & Technologies |
 |--------|-----------------------|
 | **Languages** | Python, Java, C/C++ |
-| **Web Dev** | HTML, CSS, JavaScript, Next.js |
+| **Web Dev** | HTML, CSS, JavaScript, Next.js, MERN|
 | **Machine Learning** | Scikit-learn, Pandas, NumPy, Matplotlib |
-| **Cybersecurity** | Botnet Detection, Network Traffic Analysis, Wireshark |
+| **Cybersecurity** | Botnet Detection, Network Traffic Analysis|
 | **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Data Analytics** | R, PowerBI |
 | **Tools & Platforms** | Git, GitHub, VS Code, Jupyter, Google Colab |
 
 ---

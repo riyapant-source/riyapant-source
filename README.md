@@ -41,7 +41,7 @@ When I’m not coding, you’ll find me:
 
 ## 📫 Let's Connect!
 
-- 💌 **Email**: riyapant.official@gmail.com  
+- 💌 **Email**: riyapant012@gmail.com  
 - 💼 [**LinkedIn**](www.linkedin.com/in/riyapant-profile) 
 - 💻 [**GitHub**](https://github.com/riyapant-source)
 

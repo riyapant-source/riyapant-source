@@ -67,7 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyapant-source&repo=AEGIS&theme=dark" />
 </a>
 <a href="https://github.com/riyapant-source/PAHADI-HAAT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyapant-source&repo=PAHADI-HAAT&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyapant-source&repo=E-Commerce-site&theme=dark" />
 </a>
 <a href="https://github.com/riyapant-source/BOTNET-DETECTION">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyapant-source&repo=BOTNET-DETECTION&theme=dark" />

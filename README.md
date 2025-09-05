@@ -3,17 +3,20 @@
   <img src="https://i.imgur.com/A6bWGFl.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Riya Pant</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#FF69B4;">Riya Pant</span> 🌸</h1>
 <h3 align="center">🚀 AI Explorer | 🌐 Full Stack Developer | ☁️ Cloud & DevOps Learner | 💡 Lifelong Innovator</h3>
 
 ---
 
 ## 🧭 About Me  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="girl coding gif" />
+</p>
 
 ✨ Passionate about **Artificial Intelligence** and **Full Stack Development**, with a drive to build impactful, scalable, and intelligent solutions.  
 
 🔎 I enjoy working on:  
-- 🤖 **AI/ML models** for real-world applications  
+- 🤖 **AI/ML models** & **LLMs** for real-world applications  
 - 🌍 **Full Stack Web Apps** (MERN + Next.js)  
 - ☁️ **Cloud & DevOps** practices (AWS, Docker, Kubernetes)  
 
@@ -21,10 +24,21 @@
 - 📖 Exploring emerging AI trends  
 - 🎨 Experimenting with UI/UX designs  
 - ☕ Turning coffee into creative solutions  
+- 💃 Dancing & vibing to music 🎶  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cute cat coding gif" />
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="tech gif"/>
+  
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="tech gif"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250" alt="robot coding gif"/>
+</p>
 
 <p align="center">
 
@@ -52,6 +66,7 @@
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
 <!-- Cloud / DevOps -->
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -71,18 +86,45 @@
 ---
 
 ## 🚀 Featured Projects  
-
 <p align="center">
-<a href="https://github.com/riyapant-source/AEGIS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyapant-source&repo=AEGIS&theme=tokyonight" />
-</a>
-<a href="https://github.com/riyapant-source/E-Commerce-site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyapant-source&repo=E-Commerce-site&theme=tokyonight" />
-</a>
-<a href="https://github.com/riyapant-source/BOTNET-DETECTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riyapant-source&repo=BOTNET-DETECTION&theme=tokyonight" />
-</a>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="project animation"/>
 </p>
+
+### 🔐 **AEGIS — AI-Powered Security & Intelligence System**  
+➡️ A next-gen platform that integrates **Machine Learning, LLMs, and Next.js** to analyze and respond to evolving threats.  
+- ⚙️ Built with **Python, Next.js, Scikit-learn, Pandas**  
+- 🔎 Focus on **predictive analytics & anomaly detection**  
+[🔗 View Project](https://github.com/riyapant-source/AEGIS)  
+
+---
+
+### 🛒 **Pahadi Haat — Local E-Commerce Platform**  
+➡️ A **MERN-based marketplace** designed to support local businesses with modern e-commerce features.  
+- 🔑 **Secure authentication & payments**  
+- 🗺️ **Google Maps API integration** for store & delivery tracking  
+- 📦 Cart system with real-time updates  
+[🔗 View Project](https://github.com/riyapant-source/E-Commerce-site)  
+
+---
+
+### 🤖 **NeuroShield — AI Botnet Detection**  
+➡️ An advanced cybersecurity project that detects **botnet activity** using AI & ML.  
+- 📡 Analyzes **network traffic patterns** for malicious behavior  
+- 🧠 Leverages **classification models & feature engineering**  
+- 🔐 Helps safeguard networks with intelligent detection  
+[🔗 View Project](https://github.com/riyapant-source/BOTNET-DETECTION)  
+
+---
+
+## ⚡ Currently Building  
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="under construction gif"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="robot gif"/>
+</p>
+
+- 🚀 Experimenting with **LLM-powered apps** (AI chatbots, knowledge assistants)  
+- ☁️ Deploying **cloud-native apps** with **Kubernetes + AWS**  
+- 🎨 Designing **Next.js dashboards** with interactive data visualizations  
 
 ---
 
@@ -97,11 +139,10 @@
 ---
 
 ## 📫 Connect With Me  
-
 <p align="center">
-<a href="mailto:riyapant012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/riyapant-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/riyapant-source"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:riyapant012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/riyapant-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/riyapant-source"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -110,9 +151,7 @@
   <img src="https://komarev.com/ghpvc/?username=riyapant-source&style=for-the-badge&color=blue&label=Profile+Views" alt="profile views" />
 </p>
 
----
-
 <p align="center"> 
   <i>“AI is not just about building models, it's about creating solutions that shape the future.”</i>  
-  <br>— Riya Pant 🌟  
+  <br>— <b>Riya Pant 🌸✨</b>  
 </p>

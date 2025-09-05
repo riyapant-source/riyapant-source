@@ -28,6 +28,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cute cat coding gif" />
+  <img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="250" alt="funny cat coding gif" />
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="tech gif"/>
   
 </p>
